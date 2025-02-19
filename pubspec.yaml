@@ -1,0 +1,19 @@
+name: eureka_safe_area_size
+description: InheritedWidget para obter as dimensões do Widget SafeArea
+version: 1.0.0
+author: Tiago Nascimento <tiago@eurekalabs.com.br>
+homepage: https://gitlab.eurekalabs.com.br/flutter/eureka_safe_area_size
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.8.0
+
+flutter:
